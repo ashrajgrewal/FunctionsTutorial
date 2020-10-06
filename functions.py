@@ -25,3 +25,15 @@ result4 = subtract(5, 5)
 print(result4)
 result5 = subtract(10, 9)
 print(result5)
+#Q6
+#The parameters are the first and second number. The function should return the first number divided by the second number.
+#Q7
+def add(num1, num2):
+    result = num1 + num2
+    return result
+result = add(2, 2)
+print(result)
+result = add(4, 6)
+print(result)
+result = add(100, 0)
+print(result)
